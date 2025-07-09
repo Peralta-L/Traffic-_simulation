@@ -35,8 +35,8 @@ Run: Main.java → Run in IDE.
 3	Stop Button	   |Clicked	     |   Movement freezes; threads pause.
 4	Continue Button|Clicked	     |   Movement resumes from pause.
 5	Add Car	Clicked|New car      |   appears with updated labels.
-6	Remove Car	   |Clicked	     |   Last car removed, layout updates.
-7	Add Light	   |Clicked	     |   New intersection light appears, labeled.
+6	Remove Car	    |Clicked	     |   Last car removed, layout updates.
+7	Add Light	     |Clicked	     |   New intersection light appears, labeled.
 8	Remove Light   |Clicked	     |   Last light removed, panel refreshes.
-9	Timer Accuracy |Observed	 |   Clock updates every 1 second.
-10	Interactions   |Observed	 |   Car stops at red, resumes on green.
+9	Timer Accuracy |Observed   	 |   Clock updates every 1 second.
+10	Interactions  |Observed	     |   Car stops at red, resumes on green.
